@@ -9,7 +9,7 @@
 - 🎓 **Education:** Master's in Data Science & AI | Bachelor's in CS
 - 🔭 **Current Focus:** MLOps pipelines, Real-Time Inference, and Agentic RAG Systems
 - 🎯 **Looking For:** Full-time roles in Machine Learning Engineering, Data Science, and AI Engineering
-- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/your-linkedin-handle) | [Email](mailto:your.email@example.com)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/avi-giri-8a0797188/) | [Email](mailto:giriavi123@gmail.com)
 
 ---
 
